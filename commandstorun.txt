@@ -1,0 +1,4 @@
+Commands to type to run the project
+
+export MESA_GL_VERSION_OVERRIDE=3.3
+make -C build projet && ./build/projet
